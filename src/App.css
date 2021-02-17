@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+span{
+
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin :10px;
+  margin-left: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:3ch;
+  color:rgb(45, 43, 43);
+
+}
